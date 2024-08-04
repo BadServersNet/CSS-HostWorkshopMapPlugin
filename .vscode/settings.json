@@ -1,0 +1,6 @@
+{
+  "[csharp]": {
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+  }
+}
